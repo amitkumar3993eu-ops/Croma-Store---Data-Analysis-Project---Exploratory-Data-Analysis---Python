@@ -1,4 +1,4 @@
-# Customer Data Cleaning and Exploratory Data Analysis
+# Customer Data Cleaning and Exploratory Data Analysis - Croma
 
 ## Project Overview
 This project demonstrates a complete data cleaning and exploratory data analysis workflow using four interconnected retail datasets. The datasets contained missing values, duplicate records, inconsistent formats, incorrect data types, and disconnected relationships. After cleaning and integrating the datasets, exploratory data analysis was performed to uncover meaningful business insights.
